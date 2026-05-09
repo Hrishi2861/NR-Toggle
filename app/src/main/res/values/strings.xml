@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NR Toggle</string>
+    <string name="tile_label_nr">NR Only</string>
+    <string name="tile_label_lte">LTE/Auto</string>
+    <string name="tile_desc_nr">5G NR Only is active. Tap to switch to LTE/WCDMA/GSM auto.</string>
+    <string name="tile_desc_lte">LTE/WCDMA/GSM auto is active. Tap to enable 5G NR Only.</string>
+</resources>
